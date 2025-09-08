@@ -22,7 +22,7 @@ Lift = Support of basket / (Support of Product one * Support of Product two)
 ## In this project, I have used Drill Down Network PRO - (By zoomcharts)
 
 About Drill Down Network PRO - chart: 
-Create beautiful, easy to explore networks from category-based data and add them straight to your dashboard. This chart automatically detects relations among categories, its force feedback layout prevents nodes from overlapping, and rich customization options let you control the look of each category. Click right on the chart to highlight data and quickly spot relations and outliers to examine in more detail.
+Create beautiful, easy to explore networks from category-based data and add them straight to your dashboard. This chart automatically detects relations among categories, its force feedback layout prevents nodes from overlapping, and rich customization options let you control the look of each category. 
 
 Drill Down Network PRO (Pin) by ZoomCharts
 
