@@ -4,9 +4,9 @@
 A basket analysis is a data mining technique used by retailers to identify relationships between items that are frequently purchased together in transactions, revealing customer purchasing patterns to increase sales and profits. By analyzing past purchase data, businesses can understand which products are often bought in the same "basket," then use these insights for strategies like store layout optimization, personalized promotions, and product bundling to influence customer behavior and boost revenue.
 
 There are 3 key concepts in basket analysis
-1.	Support
-2.	Confidence
-3.	Lift
+1.	Support - Indicates the frequency of the products being bought together
+2.	Confidence - Indicates the direction for cross selling
+3.	Lift - Indicates the strength of the relationship between the products
 
 Support = Number of Transactions including both Products / Total number of transactions
 
