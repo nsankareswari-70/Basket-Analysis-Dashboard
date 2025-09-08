@@ -7,3 +7,7 @@ A basket analysis is a data mining technique used by retailers to identify relat
 
 ![img alt](https://github.com/nsankareswari-70/Basket-Analysis-Dashboard/blob/5e21c4bd4af17120dc6e40ab530b40d75c373f38/BasketAnalysis2.png)
 
+The first image shows products bought together with Butter.
+The second image shows products that are bought together with Yogurt.
+
+
