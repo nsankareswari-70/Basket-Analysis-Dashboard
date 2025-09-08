@@ -8,6 +8,13 @@ There are 3 key concepts in basket analysis
 2.	Confidence
 3.	Lift
 
+Support = Number of Transactions including both Products / Total number of transactions
+
+Confidence of Product one = Support of Basket / Support of product one
+Confidence of Product Two = Support of Basket / Support of Product two
+
+Lift = Support of basket / (Support of Product one * Support of Product two)
+
 
 
 ## In this project, I have used Drill Down Network PRO - (By zoomcharts)
