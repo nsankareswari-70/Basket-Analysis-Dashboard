@@ -11,6 +11,8 @@ There are 3 key concepts in basket analysis
 Support = Number of Transactions including both Products / Total number of transactions
 
 Confidence of Product one = Support of Basket / Support of product one
+
+
 Confidence of Product Two = Support of Basket / Support of Product two
 
 Lift = Support of basket / (Support of Product one * Support of Product two)
